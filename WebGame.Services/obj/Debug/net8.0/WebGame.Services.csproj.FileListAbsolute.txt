@@ -1,0 +1,12 @@
+C:\Users\zaynu\source\wpf\WebGame\WebGame.Services\bin\Debug\net8.0\WebGame.Services.deps.json
+C:\Users\zaynu\source\wpf\WebGame\WebGame.Services\bin\Debug\net8.0\WebGame.Services.dll
+C:\Users\zaynu\source\wpf\WebGame\WebGame.Services\bin\Debug\net8.0\WebGame.Services.pdb
+C:\Users\zaynu\source\wpf\WebGame\WebGame.Services\obj\Debug\net8.0\WebGame.Services.csproj.AssemblyReference.cache
+C:\Users\zaynu\source\wpf\WebGame\WebGame.Services\obj\Debug\net8.0\WebGame.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaynu\source\wpf\WebGame\WebGame.Services\obj\Debug\net8.0\WebGame.Services.AssemblyInfoInputs.cache
+C:\Users\zaynu\source\wpf\WebGame\WebGame.Services\obj\Debug\net8.0\WebGame.Services.AssemblyInfo.cs
+C:\Users\zaynu\source\wpf\WebGame\WebGame.Services\obj\Debug\net8.0\WebGame.Services.csproj.CoreCompileInputs.cache
+C:\Users\zaynu\source\wpf\WebGame\WebGame.Services\obj\Debug\net8.0\WebGame.Services.dll
+C:\Users\zaynu\source\wpf\WebGame\WebGame.Services\obj\Debug\net8.0\refint\WebGame.Services.dll
+C:\Users\zaynu\source\wpf\WebGame\WebGame.Services\obj\Debug\net8.0\WebGame.Services.pdb
+C:\Users\zaynu\source\wpf\WebGame\WebGame.Services\obj\Debug\net8.0\ref\WebGame.Services.dll

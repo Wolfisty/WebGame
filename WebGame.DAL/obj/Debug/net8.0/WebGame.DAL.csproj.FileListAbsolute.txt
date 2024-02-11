@@ -1,0 +1,15 @@
+C:\Users\zaynu\source\wpf\WebGame\WebGame.DAL\bin\Debug\net8.0\WebGame.DAL.deps.json
+C:\Users\zaynu\source\wpf\WebGame\WebGame.DAL\bin\Debug\net8.0\WebGame.DAL.dll
+C:\Users\zaynu\source\wpf\WebGame\WebGame.DAL\bin\Debug\net8.0\WebGame.DAL.pdb
+C:\Users\zaynu\source\wpf\WebGame\WebGame.DAL\bin\Debug\net8.0\WebGame.Domain.dll
+C:\Users\zaynu\source\wpf\WebGame\WebGame.DAL\bin\Debug\net8.0\WebGame.Domain.pdb
+C:\Users\zaynu\source\wpf\WebGame\WebGame.DAL\obj\Debug\net8.0\WebGame.DAL.csproj.AssemblyReference.cache
+C:\Users\zaynu\source\wpf\WebGame\WebGame.DAL\obj\Debug\net8.0\WebGame.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaynu\source\wpf\WebGame\WebGame.DAL\obj\Debug\net8.0\WebGame.DAL.AssemblyInfoInputs.cache
+C:\Users\zaynu\source\wpf\WebGame\WebGame.DAL\obj\Debug\net8.0\WebGame.DAL.AssemblyInfo.cs
+C:\Users\zaynu\source\wpf\WebGame\WebGame.DAL\obj\Debug\net8.0\WebGame.DAL.csproj.CoreCompileInputs.cache
+C:\Users\zaynu\source\wpf\WebGame\WebGame.DAL\obj\Debug\net8.0\WebGame.DAL.csproj.CopyComplete
+C:\Users\zaynu\source\wpf\WebGame\WebGame.DAL\obj\Debug\net8.0\WebGame.DAL.dll
+C:\Users\zaynu\source\wpf\WebGame\WebGame.DAL\obj\Debug\net8.0\refint\WebGame.DAL.dll
+C:\Users\zaynu\source\wpf\WebGame\WebGame.DAL\obj\Debug\net8.0\WebGame.DAL.pdb
+C:\Users\zaynu\source\wpf\WebGame\WebGame.DAL\obj\Debug\net8.0\ref\WebGame.DAL.dll
