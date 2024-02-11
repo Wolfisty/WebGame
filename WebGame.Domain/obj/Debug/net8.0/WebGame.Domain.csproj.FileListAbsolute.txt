@@ -10,3 +10,6 @@ C:\Users\zaynu\source\wpf\WebGame\WebGame.Domain\obj\Debug\net8.0\WebGame.Domain
 C:\Users\zaynu\source\wpf\WebGame\WebGame.Domain\obj\Debug\net8.0\refint\WebGame.Domain.dll
 C:\Users\zaynu\source\wpf\WebGame\WebGame.Domain\obj\Debug\net8.0\WebGame.Domain.pdb
 C:\Users\zaynu\source\wpf\WebGame\WebGame.Domain\obj\Debug\net8.0\ref\WebGame.Domain.dll
+C:\Users\zaynu\source\wpf\WebGame\WebGame.Domain\bin\Debug\net8.0\WebGame.Domain.runtimeconfig.json
+C:\Users\zaynu\source\wpf\WebGame\WebGame.Domain\obj\Debug\net8.0\WebGame.Domain.sourcelink.json
+C:\Users\zaynu\source\wpf\WebGame\WebGame.Domain\obj\Debug\net8.0\WebGame.Domain.genruntimeconfig.cache

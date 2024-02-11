@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebGame.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd03e179e6388b9cbb9d398a917bd78e1351dbb9")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebGame.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebGame.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

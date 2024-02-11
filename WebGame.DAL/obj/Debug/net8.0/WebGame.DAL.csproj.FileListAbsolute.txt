@@ -13,3 +13,6 @@ C:\Users\zaynu\source\wpf\WebGame\WebGame.DAL\obj\Debug\net8.0\WebGame.DAL.dll
 C:\Users\zaynu\source\wpf\WebGame\WebGame.DAL\obj\Debug\net8.0\refint\WebGame.DAL.dll
 C:\Users\zaynu\source\wpf\WebGame\WebGame.DAL\obj\Debug\net8.0\WebGame.DAL.pdb
 C:\Users\zaynu\source\wpf\WebGame\WebGame.DAL\obj\Debug\net8.0\ref\WebGame.DAL.dll
+C:\Users\zaynu\source\wpf\WebGame\WebGame.DAL\bin\Debug\net8.0\WebGame.DAL.runtimeconfig.json
+C:\Users\zaynu\source\wpf\WebGame\WebGame.DAL\obj\Debug\net8.0\WebGame.DAL.sourcelink.json
+C:\Users\zaynu\source\wpf\WebGame\WebGame.DAL\obj\Debug\net8.0\WebGame.DAL.genruntimeconfig.cache

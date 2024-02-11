@@ -1,14 +1,14 @@
 using Microsoft.EntityFrameworkCore;
 using WebGame.DAL;
+using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-var conn = builder.Configuration.GetConnectionString("DefaultConnection");
-
+var connection = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddDbContext<AppDbContext>(options =>
-        options.UseNpgsql(conn));
+        options.UseNpgsql(connection, b => b.MigrationsAssembly("WebGame")));
 
 builder.Services.AddControllersWithViews();
 
