@@ -20,5 +20,7 @@ namespace WebGame.Domain.Entity
         public Profile Profile { get; set; }
         
         public int Rating { get; set; }
+
+        public List<long> CompletedTasks { get; set; }
     }
 }
