@@ -33,9 +33,6 @@ namespace WebGame.Migrations
                         .IsRequired()
                         .HasColumnType("text");
 
-                    b.Property<int>("Category")
-                        .HasColumnType("integer");
-
                     b.Property<string>("Content")
                         .IsRequired()
                         .HasColumnType("text");
@@ -43,9 +40,6 @@ namespace WebGame.Migrations
                     b.Property<string>("Img")
                         .IsRequired()
                         .HasColumnType("text");
-
-                    b.Property<int>("Section")
-                        .HasColumnType("integer");
 
                     b.HasKey("Id");
 

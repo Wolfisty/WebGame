@@ -10,9 +10,6 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
 COPY ["WebGame/WebGame.csproj", "WebGame/"]
-COPY ["WebGame.DAL/WebGame.DAL.csproj", "WebGame.DAL/"]
-COPY ["WebGame.Domain/WebGame.Domain.csproj", "WebGame.Domain/"]
-COPY ["WebGame.Services/WebGame.Services.csproj", "WebGame.Services/"]
 RUN dotnet restore "./WebGame/./WebGame.csproj"
 COPY . .
 WORKDIR "/src/WebGame"

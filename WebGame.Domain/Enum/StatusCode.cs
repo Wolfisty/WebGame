@@ -8,11 +8,10 @@ namespace WebGame.Domain.Enum
 {
     public enum StatusCode
     {
-        NotFound = 0,
+        UserNotFound = 0,
         UserAlreadyExists = 1,
         OrderNotFound = 20,
         OK = 200,
-        InternalServerError = 500,
-        DbNotFound = 404,
+        InternalServerError = 500
     }
 }

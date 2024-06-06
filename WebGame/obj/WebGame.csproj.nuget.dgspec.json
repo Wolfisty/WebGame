@@ -58,10 +58,6 @@
               "target": "Package",
               "version": "[8.0.1, )"
             },
-            "Microsoft.Identity.Client": {
-              "target": "Package",
-              "version": "[4.59.0, )"
-            },
             "Npgsql": {
               "target": "Package",
               "version": "[8.0.2, )"
@@ -141,10 +137,6 @@
               "target": "Package",
               "version": "[8.0.1, )"
             },
-            "Microsoft.Identity.Client": {
-              "target": "Package",
-              "version": "[4.59.0, )"
-            },
             "Npgsql": {
               "target": "Package",
               "version": "[8.0.2, )"
@@ -201,14 +193,7 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {
-              "C:\\Users\\zaynu\\source\\wpf\\WebGame\\WebGame.DAL\\WebGame.DAL.csproj": {
-                "projectPath": "C:\\Users\\zaynu\\source\\wpf\\WebGame\\WebGame.DAL\\WebGame.DAL.csproj"
-              },
-              "C:\\Users\\zaynu\\source\\wpf\\WebGame\\WebGame.Domain\\WebGame.Domain.csproj": {
-                "projectPath": "C:\\Users\\zaynu\\source\\wpf\\WebGame\\WebGame.Domain\\WebGame.Domain.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -221,10 +206,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Mvc.Core": {
-              "target": "Package",
-              "version": "[2.2.5, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.1, )"
@@ -234,10 +215,6 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.1, )"
-            },
-            "Microsoft.Identity.Client": {
-              "target": "Package",
-              "version": "[4.59.0, )"
             },
             "Npgsql": {
               "target": "Package",
@@ -331,10 +308,6 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.1, )"
-            },
-            "Microsoft.Identity.Client": {
-              "target": "Package",
-              "version": "[4.59.0, )"
             },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
