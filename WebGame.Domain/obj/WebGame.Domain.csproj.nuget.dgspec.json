@@ -54,6 +54,10 @@
               "target": "Package",
               "version": "[8.0.1, )"
             },
+            "Microsoft.Identity.Client": {
+              "target": "Package",
+              "version": "[4.59.0, )"
+            },
             "Npgsql": {
               "target": "Package",
               "version": "[8.0.2, )"

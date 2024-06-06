@@ -13,3 +13,8 @@ C:\Users\zaynu\source\wpf\WebGame\WebGame.Services\obj\Debug\net8.0\ref\WebGame.
 C:\Users\zaynu\source\wpf\WebGame\WebGame.Services\bin\Debug\net8.0\WebGame.Services.runtimeconfig.json
 C:\Users\zaynu\source\wpf\WebGame\WebGame.Services\obj\Debug\net8.0\WebGame.Services.sourcelink.json
 C:\Users\zaynu\source\wpf\WebGame\WebGame.Services\obj\Debug\net8.0\WebGame.Services.genruntimeconfig.cache
+C:\Users\zaynu\source\wpf\WebGame\WebGame.Services\bin\Debug\net8.0\WebGame.DAL.dll
+C:\Users\zaynu\source\wpf\WebGame\WebGame.Services\bin\Debug\net8.0\WebGame.Domain.dll
+C:\Users\zaynu\source\wpf\WebGame\WebGame.Services\bin\Debug\net8.0\WebGame.DAL.pdb
+C:\Users\zaynu\source\wpf\WebGame\WebGame.Services\bin\Debug\net8.0\WebGame.Domain.pdb
+C:\Users\zaynu\source\wpf\WebGame\WebGame.Services\obj\Debug\net8.0\WebGame.Services.csproj.CopyComplete

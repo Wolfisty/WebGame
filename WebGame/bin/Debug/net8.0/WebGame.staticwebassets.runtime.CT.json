@@ -1,6 +1,7 @@
 {
   "ContentRoots": [
     "/app/wwwroot/",
+    "/.nuget/fallbackpackages2/microsoft.aspnetcore.components.quickgrid/8.0.1/staticwebassets/",
     "/app/obj/Debug/net8.0/scopedcss/bundle/"
   ],
   "Root": {
@@ -557,10 +558,38 @@
         "Asset": null,
         "Patterns": null
       },
+      "_content": {
+        "Children": {
+          "Microsoft.AspNetCore.Components.QuickGrid": {
+            "Children": {
+              "QuickGrid.razor.js": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 1,
+                  "SubPath": "QuickGrid.razor.js"
+                },
+                "Patterns": null
+              },
+              "Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 1,
+                  "SubPath": "Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
+                },
+                "Patterns": null
+              }
+            },
+            "Asset": null,
+            "Patterns": null
+          }
+        },
+        "Asset": null,
+        "Patterns": null
+      },
       "WebGame.styles.css": {
         "Children": null,
         "Asset": {
-          "ContentRootIndex": 1,
+          "ContentRootIndex": 2,
           "SubPath": "WebGame.styles.css"
         },
         "Patterns": null
